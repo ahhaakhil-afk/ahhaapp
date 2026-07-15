@@ -1,0 +1,39 @@
+{
+  "ahhaWebApp": {
+    "ahhaEventBooking": {
+      "home": {
+        "title": "Ahha Event Bookings",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "కొత్త Ahha Event Booking  సృష్టించండి",
+        "createOrEditLabel": "Ahha Event Booking సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Ahha Event Bookings found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Ahha Event Booking సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Ahha Event Booking సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Ahha Event Booking తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Ahha Event Booking {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Ahha Event Booking"
+      },
+      "id": "ID",
+      "eventDate": "Event Date",
+      "address": "Address",
+      "totalAmount": "Total Amount",
+      "rating": "Rating",
+      "review": "Review",
+      "bookingStatus": "Booking Status",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "bookingItem": "Booking Item",
+      "eventTheme": "Event Theme",
+      "ahhaPackage": "Ahha Package",
+      "state": "State",
+      "district": "District",
+      "user": "User"
+    }
+  }
+}

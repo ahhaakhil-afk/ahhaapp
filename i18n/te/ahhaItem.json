@@ -1,0 +1,40 @@
+{
+  "ahhaWebApp": {
+    "ahhaItem": {
+      "home": {
+        "title": "Ahha Items",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "కొత్త Ahha Item  సృష్టించండి",
+        "createOrEditLabel": "Ahha Item సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Ahha Items found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Ahha Item సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Ahha Item సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Ahha Item తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Ahha Item {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Ahha Item"
+      },
+      "id": "ID",
+      "name": "Name",
+      "code": "Code",
+      "title": "Title",
+      "subTitle": "Sub Title",
+      "description": "Description",
+      "price": "Price",
+      "averageRating": "Average Rating",
+      "totalReviews": "Total Reviews",
+      "imageUrl": "Image Url",
+      "image": "Image",
+      "activeYn": "Active Yn",
+      "order": "Order",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "category": "Category"
+    }
+  }
+}

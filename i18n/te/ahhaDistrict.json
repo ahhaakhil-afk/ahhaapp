@@ -1,0 +1,29 @@
+{
+  "ahhaWebApp": {
+    "ahhaDistrict": {
+      "home": {
+        "title": "Ahha Districts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "కొత్త Ahha District  సృష్టించండి",
+        "createOrEditLabel": "Ahha District సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Ahha Districts found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Ahha District సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Ahha District సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Ahha District తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Ahha District {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Ahha District"
+      },
+      "id": "ID",
+      "name": "Name",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "state": "State"
+    }
+  }
+}

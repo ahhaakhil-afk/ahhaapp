@@ -1,0 +1,39 @@
+{
+  "ahhaWebApp": {
+    "ahhaCategory": {
+      "home": {
+        "title": "Ahha Categories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "కొత్త Ahha Category  సృష్టించండి",
+        "createOrEditLabel": "Ahha Category సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Ahha Categories found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Ahha Category సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Ahha Category సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Ahha Category తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Ahha Category {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Ahha Category"
+      },
+      "id": "ID",
+      "name": "Name",
+      "code": "Code",
+      "description": "Description",
+      "imageUrl": "Image Url",
+      "image": "Image",
+      "activeYn": "Active Yn",
+      "order": "Order",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "cardTitle": "Card Title",
+      "cardDescription": "Card Description",
+      "cardImageUrl": "Card Image Url",
+      "cardImage": "Card Image",
+      "item": "Item"
+    }
+  }
+}
