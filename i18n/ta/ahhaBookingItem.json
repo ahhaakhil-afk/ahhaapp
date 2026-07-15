@@ -1,0 +1,33 @@
+{
+  "ahhaWebApp": {
+    "ahhaBookingItem": {
+      "home": {
+        "title": "Ahha Booking Items",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ahha Booking Item-ஐ உருவாக்கு",
+        "createOrEditLabel": "Ahha Booking Item -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Ahha Booking Items found"
+      },
+      "created": "Ahha Booking Item புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Ahha Booking Item மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Ahha Booking Item நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Ahha Booking Item {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Booking Item"
+      },
+      "id": "ID",
+      "eventType": "Event Type",
+      "referenceId": "Reference Id",
+      "details": "Details",
+      "quantity": "Quantity",
+      "price": "Price",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "booking": "Booking"
+    }
+  }
+}

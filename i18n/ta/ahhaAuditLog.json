@@ -1,0 +1,30 @@
+{
+  "ahhaWebApp": {
+    "ahhaAuditLog": {
+      "home": {
+        "title": "Ahha Audit Logs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ahha Audit Log-ஐ உருவாக்கு",
+        "createOrEditLabel": "Ahha Audit Log -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Ahha Audit Logs found"
+      },
+      "created": "Ahha Audit Log புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Ahha Audit Log மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Ahha Audit Log நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Ahha Audit Log {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Audit Log"
+      },
+      "id": "ID",
+      "actionType": "Action Type",
+      "entityId": "Entity Id",
+      "actionDetails": "Action Details",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date"
+    }
+  }
+}

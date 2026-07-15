@@ -1,0 +1,38 @@
+{
+  "ahhaWebApp": {
+    "ahhaOffer": {
+      "home": {
+        "title": "Ahha Offers",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ahha Offer-ஐ உருவாக்கு",
+        "createOrEditLabel": "Ahha Offer -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Ahha Offers found"
+      },
+      "created": "Ahha Offer புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Ahha Offer மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Ahha Offer நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Ahha Offer {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Offer"
+      },
+      "id": "ID",
+      "offerType": "Offer Type",
+      "relatedId": "Related Id",
+      "discountPercentage": "Discount Percentage",
+      "discountPrice": "Discount Price",
+      "discountQuote": "Discount Quote",
+      "discountHeader": "Discount Header",
+      "discountFontColor": "Discount Font Color",
+      "discountBcColor": "Discount Bc Color",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "activeYn": "Active Yn",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date"
+    }
+  }
+}

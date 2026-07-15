@@ -1,0 +1,42 @@
+{
+  "ahhaWebApp": {
+    "ahhaUser": {
+      "home": {
+        "title": "Ahha Users",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ahha User-ஐ உருவாக்கு",
+        "createOrEditLabel": "Ahha User -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Ahha Users found"
+      },
+      "created": "Ahha User புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Ahha User மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Ahha User நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Ahha User {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha User"
+      },
+      "id": "ID",
+      "email": "Email",
+      "passwordHash": "Password Hash",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "mobileNumber": "Mobile Number",
+      "imageUrl": "Image Url",
+      "image": "Image",
+      "activated": "Activated",
+      "langKey": "Lang Key",
+      "activationKey": "Activation Key",
+      "resetKey": "Reset Key",
+      "emailVerified": "Email Verified",
+      "mobileVerified": "Mobile Verified",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "cart": "Cart",
+      "eventBooking": "Event Booking"
+    }
+  }
+}

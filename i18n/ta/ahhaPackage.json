@@ -1,0 +1,42 @@
+{
+  "ahhaWebApp": {
+    "ahhaPackage": {
+      "home": {
+        "title": "Ahha Packages",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ahha Package-ஐ உருவாக்கு",
+        "createOrEditLabel": "Ahha Package -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Ahha Packages found"
+      },
+      "created": "Ahha Package புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Ahha Package மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Ahha Package நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Ahha Package {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Package"
+      },
+      "id": "ID",
+      "parentId": "Parent Id",
+      "name": "Name",
+      "code": "Code",
+      "title": "Title",
+      "subTitle": "Sub Title",
+      "description": "Description",
+      "basePrice": "Base Price",
+      "averageRating": "Average Rating",
+      "totalReviews": "Total Reviews",
+      "imageUrl": "Image Url",
+      "image": "Image",
+      "activeYn": "Active Yn",
+      "order": "Order",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "packageItem": "Package Item",
+      "eventTheme": "Event Theme"
+    }
+  }
+}

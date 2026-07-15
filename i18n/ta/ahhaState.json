@@ -1,0 +1,29 @@
+{
+  "ahhaWebApp": {
+    "ahhaState": {
+      "home": {
+        "title": "Ahha States",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ahha State-ஐ உருவாக்கு",
+        "createOrEditLabel": "Ahha State -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Ahha States found"
+      },
+      "created": "Ahha State புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Ahha State மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Ahha State நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Ahha State {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha State"
+      },
+      "id": "ID",
+      "name": "Name",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "district": "District"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ahhaWebApp": {
+    "ahhaRating": {
+      "home": {
+        "title": "Ahha Ratings",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ahha Rating-ஐ உருவாக்கு",
+        "createOrEditLabel": "Ahha Rating -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Ahha Ratings found"
+      },
+      "created": "Ahha Rating புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Ahha Rating மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Ahha Rating நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Ahha Rating {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Rating"
+      },
+      "id": "ID",
+      "entityType": "Entity Type",
+      "entityId": "Entity Id",
+      "rating": "Rating",
+      "review": "Review",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "user": "User"
+    }
+  }
+}
