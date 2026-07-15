@@ -1,0 +1,38 @@
+{
+  "ahhaWebApp": {
+    "ahhaOffer": {
+      "home": {
+        "title": "Ahha Offers",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Ahha Offer",
+        "createOrEditLabel": "Create or edit a Ahha Offer",
+        "notFound": "No Ahha Offers found"
+      },
+      "created": "A new Ahha Offer is created with identifier {{ param }}",
+      "updated": "A Ahha Offer is updated with identifier {{ param }}",
+      "deleted": "A Ahha Offer is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Ahha Offer {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Offer"
+      },
+      "id": "ID",
+      "offerType": "Offer Type",
+      "relatedId": "Related Id",
+      "discountPercentage": "Discount Percentage",
+      "discountPrice": "Discount Price",
+      "discountQuote": "Discount Quote",
+      "discountHeader": "Discount Header",
+      "discountFontColor": "Discount Font Color",
+      "discountBcColor": "Discount Bc Color",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "activeYn": "Active Yn",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date"
+    }
+  }
+}

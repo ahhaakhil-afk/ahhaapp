@@ -1,0 +1,35 @@
+{
+  "ahhaWebApp": {
+    "ahhaTheme": {
+      "home": {
+        "title": "Ahha Themes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Ahha Theme",
+        "createOrEditLabel": "Create or edit a Ahha Theme",
+        "notFound": "No Ahha Themes found"
+      },
+      "created": "A new Ahha Theme is created with identifier {{ param }}",
+      "updated": "A Ahha Theme is updated with identifier {{ param }}",
+      "deleted": "A Ahha Theme is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Ahha Theme {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Theme"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "backgroundColor": "Background Color",
+      "primaryColor": "Primary Color",
+      "secondaryColor": "Secondary Color",
+      "bannerImageUrl": "Banner Image Url",
+      "image": "Image",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "eventTheme": "Event Theme"
+    }
+  }
+}

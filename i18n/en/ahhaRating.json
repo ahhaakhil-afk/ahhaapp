@@ -1,0 +1,32 @@
+{
+  "ahhaWebApp": {
+    "ahhaRating": {
+      "home": {
+        "title": "Ahha Ratings",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Ahha Rating",
+        "createOrEditLabel": "Create or edit a Ahha Rating",
+        "notFound": "No Ahha Ratings found"
+      },
+      "created": "A new Ahha Rating is created with identifier {{ param }}",
+      "updated": "A Ahha Rating is updated with identifier {{ param }}",
+      "deleted": "A Ahha Rating is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Ahha Rating {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Rating"
+      },
+      "id": "ID",
+      "entityType": "Entity Type",
+      "entityId": "Entity Id",
+      "rating": "Rating",
+      "review": "Review",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "user": "User"
+    }
+  }
+}

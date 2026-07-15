@@ -1,0 +1,39 @@
+{
+  "ahhaWebApp": {
+    "ahhaCategory": {
+      "home": {
+        "title": "Ahha Categories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Ahha Category",
+        "createOrEditLabel": "Create or edit a Ahha Category",
+        "notFound": "No Ahha Categories found"
+      },
+      "created": "A new Ahha Category is created with identifier {{ param }}",
+      "updated": "A Ahha Category is updated with identifier {{ param }}",
+      "deleted": "A Ahha Category is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Ahha Category {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Category"
+      },
+      "id": "ID",
+      "name": "Name",
+      "code": "Code",
+      "description": "Description",
+      "imageUrl": "Image Url",
+      "image": "Image",
+      "activeYn": "Active Yn",
+      "order": "Order",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "cardTitle": "Card Title",
+      "cardDescription": "Card Description",
+      "cardImageUrl": "Card Image Url",
+      "cardImage": "Card Image",
+      "item": "Item"
+    }
+  }
+}

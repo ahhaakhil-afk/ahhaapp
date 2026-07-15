@@ -1,0 +1,30 @@
+{
+  "ahhaWebApp": {
+    "ahhaCart": {
+      "home": {
+        "title": "Ahha Carts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Ahha Cart",
+        "createOrEditLabel": "Create or edit a Ahha Cart",
+        "notFound": "No Ahha Carts found"
+      },
+      "created": "A new Ahha Cart is created with identifier {{ param }}",
+      "updated": "A Ahha Cart is updated with identifier {{ param }}",
+      "deleted": "A Ahha Cart is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Ahha Cart {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Cart"
+      },
+      "id": "ID",
+      "eventType": "Event Type",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "cartItem": "Cart Item",
+      "user": "User"
+    }
+  }
+}

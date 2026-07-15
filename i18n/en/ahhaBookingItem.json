@@ -1,0 +1,33 @@
+{
+  "ahhaWebApp": {
+    "ahhaBookingItem": {
+      "home": {
+        "title": "Ahha Booking Items",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Ahha Booking Item",
+        "createOrEditLabel": "Create or edit a Ahha Booking Item",
+        "notFound": "No Ahha Booking Items found"
+      },
+      "created": "A new Ahha Booking Item is created with identifier {{ param }}",
+      "updated": "A Ahha Booking Item is updated with identifier {{ param }}",
+      "deleted": "A Ahha Booking Item is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Ahha Booking Item {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Booking Item"
+      },
+      "id": "ID",
+      "eventType": "Event Type",
+      "referenceId": "Reference Id",
+      "details": "Details",
+      "quantity": "Quantity",
+      "price": "Price",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "booking": "Booking"
+    }
+  }
+}

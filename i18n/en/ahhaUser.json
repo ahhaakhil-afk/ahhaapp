@@ -1,0 +1,42 @@
+{
+  "ahhaWebApp": {
+    "ahhaUser": {
+      "home": {
+        "title": "Ahha Users",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Ahha User",
+        "createOrEditLabel": "Create or edit a Ahha User",
+        "notFound": "No Ahha Users found"
+      },
+      "created": "A new Ahha User is created with identifier {{ param }}",
+      "updated": "A Ahha User is updated with identifier {{ param }}",
+      "deleted": "A Ahha User is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Ahha User {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha User"
+      },
+      "id": "ID",
+      "email": "Email",
+      "passwordHash": "Password Hash",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "mobileNumber": "Mobile Number",
+      "imageUrl": "Image Url",
+      "image": "Image",
+      "activated": "Activated",
+      "langKey": "Lang Key",
+      "activationKey": "Activation Key",
+      "resetKey": "Reset Key",
+      "emailVerified": "Email Verified",
+      "mobileVerified": "Mobile Verified",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "cart": "Cart",
+      "eventBooking": "Event Booking"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ahhaWebApp": {
+    "ahhaEventBooking": {
+      "home": {
+        "title": "Ahha Event Bookings",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Ahha Event Booking",
+        "createOrEditLabel": "Create or edit a Ahha Event Booking",
+        "notFound": "No Ahha Event Bookings found"
+      },
+      "created": "A new Ahha Event Booking is created with identifier {{ param }}",
+      "updated": "A Ahha Event Booking is updated with identifier {{ param }}",
+      "deleted": "A Ahha Event Booking is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Ahha Event Booking {{ id }}?"
+      },
+      "detail": {
+        "title": "Ahha Event Booking"
+      },
+      "id": "ID",
+      "eventDate": "Event Date",
+      "address": "Address",
+      "totalAmount": "Total Amount",
+      "rating": "Rating",
+      "review": "Review",
+      "bookingStatus": "Booking Status",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "bookingItem": "Booking Item",
+      "eventTheme": "Event Theme",
+      "ahhaPackage": "Ahha Package",
+      "state": "State",
+      "district": "District",
+      "user": "User"
+    }
+  }
+}
