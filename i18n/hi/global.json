@@ -1,0 +1,29 @@
+{
+  "global": {
+    "menu": {
+      "entities": {
+        "ahhaUser": "Ahha User",
+        "ahhaCategory": "Ahha Category",
+        "ahhaItem": "Ahha Item",
+        "ahhaPackage": "Ahha Package",
+        "ahhaPackageItem": "Ahha Package Item",
+        "ahhaOffer": "Ahha Offer",
+        "ahhaCart": "Ahha Cart",
+        "ahhaCartItem": "Ahha Cart Item",
+        "ahhaState": "Ahha State",
+        "ahhaDistrict": "Ahha District",
+        "ahhaEventBooking": "Ahha Event Booking",
+        "ahhaTheme": "Ahha Theme",
+        "ahhaEventTheme": "Ahha Event Theme",
+        "ahhaAuditLog": "Ahha Audit Log",
+        "ahhaBookingItem": "Ahha Booking Item",
+        "ahhaRating": "Ahha Rating",
+        "ahhaObjectStore": "Ahha Object Store"
+      },
+      "admin": {
+        "main": "प्रशासन",
+        "monitoring": "सहायता डैशबोर्ड"
+      }
+    }
+  }
+}

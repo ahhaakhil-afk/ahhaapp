@@ -1,0 +1,33 @@
+{
+  "ahhaWebApp": {
+    "ahhaBookingItem": {
+      "home": {
+        "title": "AhhaBookingItems",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Ahha Booking Item बनाएँ",
+        "createOrEditLabel": "Ahha Booking Item बनाएँ या संपादित करें",
+        "notFound": "No Ahha Booking Items found"
+      },
+      "created": "एक नया Ahha Booking Item [identifier: {{ param }}] तैयार है",
+      "updated": "एक Ahha Booking Item [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Ahha Booking Item [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Ahha Booking Item [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Ahha Booking Item"
+      },
+      "id": "ID",
+      "eventType": "Event Type",
+      "referenceId": "Reference Id",
+      "details": "Details",
+      "quantity": "Quantity",
+      "price": "Price",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "booking": "Booking"
+    }
+  }
+}

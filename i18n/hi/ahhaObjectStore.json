@@ -1,0 +1,34 @@
+{
+  "ahhaWebApp": {
+    "ahhaObjectStore": {
+      "home": {
+        "title": "AhhaObjectStores",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Ahha Object Store बनाएँ",
+        "createOrEditLabel": "Ahha Object Store बनाएँ या संपादित करें",
+        "notFound": "No Ahha Object Stores found"
+      },
+      "created": "एक नया Ahha Object Store [identifier: {{ param }}] तैयार है",
+      "updated": "एक Ahha Object Store [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Ahha Object Store [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Ahha Object Store [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Ahha Object Store"
+      },
+      "id": "ID",
+      "objectType": "Object Type",
+      "referenceId": "Reference Id",
+      "referenceType": "Reference Type",
+      "imageUrl": "Image Url",
+      "image": "Image",
+      "activeYn": "Active Yn",
+      "order": "Order",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date"
+    }
+  }
+}

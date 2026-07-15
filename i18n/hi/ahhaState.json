@@ -1,0 +1,29 @@
+{
+  "ahhaWebApp": {
+    "ahhaState": {
+      "home": {
+        "title": "AhhaStates",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Ahha State बनाएँ",
+        "createOrEditLabel": "Ahha State बनाएँ या संपादित करें",
+        "notFound": "No Ahha States found"
+      },
+      "created": "एक नया Ahha State [identifier: {{ param }}] तैयार है",
+      "updated": "एक Ahha State [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Ahha State [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Ahha State [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Ahha State"
+      },
+      "id": "ID",
+      "name": "Name",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "district": "District"
+    }
+  }
+}

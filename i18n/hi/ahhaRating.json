@@ -1,0 +1,32 @@
+{
+  "ahhaWebApp": {
+    "ahhaRating": {
+      "home": {
+        "title": "AhhaRatings",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Ahha Rating बनाएँ",
+        "createOrEditLabel": "Ahha Rating बनाएँ या संपादित करें",
+        "notFound": "No Ahha Ratings found"
+      },
+      "created": "एक नया Ahha Rating [identifier: {{ param }}] तैयार है",
+      "updated": "एक Ahha Rating [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Ahha Rating [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Ahha Rating [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Ahha Rating"
+      },
+      "id": "ID",
+      "entityType": "Entity Type",
+      "entityId": "Entity Id",
+      "rating": "Rating",
+      "review": "Review",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "user": "User"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ahhaWebApp": {
+    "ahhaCart": {
+      "home": {
+        "title": "AhhaCarts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Ahha Cart बनाएँ",
+        "createOrEditLabel": "Ahha Cart बनाएँ या संपादित करें",
+        "notFound": "No Ahha Carts found"
+      },
+      "created": "एक नया Ahha Cart [identifier: {{ param }}] तैयार है",
+      "updated": "एक Ahha Cart [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Ahha Cart [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Ahha Cart [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Ahha Cart"
+      },
+      "id": "ID",
+      "eventType": "Event Type",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "cartItem": "Cart Item",
+      "user": "User"
+    }
+  }
+}

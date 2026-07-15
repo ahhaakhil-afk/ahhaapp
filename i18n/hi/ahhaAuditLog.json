@@ -1,0 +1,30 @@
+{
+  "ahhaWebApp": {
+    "ahhaAuditLog": {
+      "home": {
+        "title": "AhhaAuditLogs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Ahha Audit Log बनाएँ",
+        "createOrEditLabel": "Ahha Audit Log बनाएँ या संपादित करें",
+        "notFound": "No Ahha Audit Logs found"
+      },
+      "created": "एक नया Ahha Audit Log [identifier: {{ param }}] तैयार है",
+      "updated": "एक Ahha Audit Log [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Ahha Audit Log [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Ahha Audit Log [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Ahha Audit Log"
+      },
+      "id": "ID",
+      "actionType": "Action Type",
+      "entityId": "Entity Id",
+      "actionDetails": "Action Details",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date"
+    }
+  }
+}

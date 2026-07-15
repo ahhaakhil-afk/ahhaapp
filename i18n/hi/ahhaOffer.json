@@ -1,0 +1,38 @@
+{
+  "ahhaWebApp": {
+    "ahhaOffer": {
+      "home": {
+        "title": "AhhaOffers",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Ahha Offer बनाएँ",
+        "createOrEditLabel": "Ahha Offer बनाएँ या संपादित करें",
+        "notFound": "No Ahha Offers found"
+      },
+      "created": "एक नया Ahha Offer [identifier: {{ param }}] तैयार है",
+      "updated": "एक Ahha Offer [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Ahha Offer [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Ahha Offer [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Ahha Offer"
+      },
+      "id": "ID",
+      "offerType": "Offer Type",
+      "relatedId": "Related Id",
+      "discountPercentage": "Discount Percentage",
+      "discountPrice": "Discount Price",
+      "discountQuote": "Discount Quote",
+      "discountHeader": "Discount Header",
+      "discountFontColor": "Discount Font Color",
+      "discountBcColor": "Discount Bc Color",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "activeYn": "Active Yn",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date"
+    }
+  }
+}

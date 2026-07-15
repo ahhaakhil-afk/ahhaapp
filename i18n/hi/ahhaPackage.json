@@ -1,0 +1,42 @@
+{
+  "ahhaWebApp": {
+    "ahhaPackage": {
+      "home": {
+        "title": "AhhaPackages",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Ahha Package बनाएँ",
+        "createOrEditLabel": "Ahha Package बनाएँ या संपादित करें",
+        "notFound": "No Ahha Packages found"
+      },
+      "created": "एक नया Ahha Package [identifier: {{ param }}] तैयार है",
+      "updated": "एक Ahha Package [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Ahha Package [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Ahha Package [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Ahha Package"
+      },
+      "id": "ID",
+      "parentId": "Parent Id",
+      "name": "Name",
+      "code": "Code",
+      "title": "Title",
+      "subTitle": "Sub Title",
+      "description": "Description",
+      "basePrice": "Base Price",
+      "averageRating": "Average Rating",
+      "totalReviews": "Total Reviews",
+      "imageUrl": "Image Url",
+      "image": "Image",
+      "activeYn": "Active Yn",
+      "order": "Order",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "packageItem": "Package Item",
+      "eventTheme": "Event Theme"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ahhaWebApp": {
+    "EventType": {
+      "null": "",
+      "PACKAGE": "PACKAGE",
+      "ITEM": "ITEM",
+      "PACKAGE_ITEM": "PACKAGE_ITEM"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ahhaWebApp": {
+    "ahhaUser": {
+      "home": {
+        "title": "AhhaUsers",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Ahha User बनाएँ",
+        "createOrEditLabel": "Ahha User बनाएँ या संपादित करें",
+        "notFound": "No Ahha Users found"
+      },
+      "created": "एक नया Ahha User [identifier: {{ param }}] तैयार है",
+      "updated": "एक Ahha User [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Ahha User [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Ahha User [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Ahha User"
+      },
+      "id": "ID",
+      "email": "Email",
+      "passwordHash": "Password Hash",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "mobileNumber": "Mobile Number",
+      "imageUrl": "Image Url",
+      "image": "Image",
+      "activated": "Activated",
+      "langKey": "Lang Key",
+      "activationKey": "Activation Key",
+      "resetKey": "Reset Key",
+      "emailVerified": "Email Verified",
+      "mobileVerified": "Mobile Verified",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "cart": "Cart",
+      "eventBooking": "Event Booking"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ahhaWebApp": {
+    "EntityType": {
+      "null": "",
+      "ITEM": "ITEM",
+      "PACKAGE": "PACKAGE",
+      "BOOKING": "BOOKING"
+    }
+  }
+}

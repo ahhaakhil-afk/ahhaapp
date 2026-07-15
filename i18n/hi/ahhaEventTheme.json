@@ -1,0 +1,30 @@
+{
+  "ahhaWebApp": {
+    "ahhaEventTheme": {
+      "home": {
+        "title": "AhhaEventThemes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Ahha Event Theme बनाएँ",
+        "createOrEditLabel": "Ahha Event Theme बनाएँ या संपादित करें",
+        "notFound": "No Ahha Event Themes found"
+      },
+      "created": "एक नया Ahha Event Theme [identifier: {{ param }}] तैयार है",
+      "updated": "एक Ahha Event Theme [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Ahha Event Theme [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Ahha Event Theme [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Ahha Event Theme"
+      },
+      "id": "ID",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "lastModifiedBy": "Last Modified By",
+      "lastModifiedDate": "Last Modified Date",
+      "theme": "Theme",
+      "event": "Event",
+      "ahhaPackage": "Ahha Package"
+    }
+  }
+}
